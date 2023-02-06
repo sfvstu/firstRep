@@ -6,3 +6,6 @@ https://github.com/sfvstu/firstRep.git
 Authors: 
  - nereVar34
  - sfvstu
+
+Contacts:
+noname@mail.ru
