@@ -8,4 +8,4 @@ Authors:
  - sfvstu
 
 Contacts:
-noname@mail.ru
+sfvstu@yandex.ru
